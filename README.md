@@ -1,1 +1,8 @@
-# Mr-heavy
+# Felex mairura
+START
+INPUT A,B
+SQUARE A=A*A
+SQUARE B=B*B
+SUM=SQUARE A + SQUARE B
+PRINT SUM
+END 
